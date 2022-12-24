@@ -1,0 +1,50 @@
+Reading 1
+Thread3: 23.623950
+Thread2: 23.917114
+Thread1: 39.647236
+
+Reading 2
+Thread3: 10.468852
+Thread2: 11.237828
+Thread1: 18.261203
+
+Reading 3
+Thread3: 9.895182
+Thread2: 10.130815
+Thread1: 19.085177
+
+Reading 4
+Thread3: 9.585112
+Thread2: 12.737934
+Thread1: 16.209654
+
+Reading 5
+Thread3: 9.711279
+Thread2: 9.877776
+Thread1: 18.437296
+
+Reading 6
+Thread3: 11.103645
+Thread2: 12.750605
+Thread1: 18.786920
+
+Reading 7
+Thread2: 10.800230
+Thread3: 10.955954
+Thread1: 19.294518
+
+Reading 8
+Thread2: 10.701274
+Thread3: 11.097949
+Thread1: 18.676498
+
+Reading 9
+Thread2: 10.772163
+Thread3: 13.629869
+Thread1: 17.773999
+
+Reading 10
+Thread2: 10.945658
+Thread3: 10.725620
+Thread1: 18.907340
+
